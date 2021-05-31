@@ -1,18 +1,18 @@
 <template>
   <div class="container">
     <div>
-      <PhilLogo />
       <h1 class="title">
-        Philip Lalonde
+          <PhilLogoSm /> 
+          Philip Lalonde
       </h1>
       <div class="links">
         <a
-          href="../bio"
+          href="../"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--red"
         >
-          Bio
+          Home
         </a>
         <a
           href="https://github.com/lalondeph/"

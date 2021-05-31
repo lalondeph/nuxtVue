@@ -53,10 +53,39 @@ html {
   text-decoration: none;
   padding: 10px 30px;
   margin-left: 15px;
+  margin-right: 15px;
 }
 
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+
+.button--blue {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #0072b1;
+  color: #0072b1;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+
+.button--blue:hover {
+  color: #fff;
+  background-color: #0072b1;
+}
+
+.button--red {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #611c1c;
+  color: #611c1c;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+
+.button--red:hover {
+  color: #fff;
+  background-color: #611c1c;
 }
 </style>
